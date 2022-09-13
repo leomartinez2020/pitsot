@@ -1,0 +1,23 @@
+{
+  "name": "pitsot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:css": "npx tailwindcss -i ./src/input.css -o ./dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomartinez2020/pitsot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomartinez2020/pitsot/issues"
+  },
+  "homepage": "https://github.com/leomartinez2020/pitsot#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
